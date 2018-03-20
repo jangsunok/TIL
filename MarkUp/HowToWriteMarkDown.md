@@ -91,3 +91,8 @@ public static int b = 20
 ## 링크
 
 [장선옥의 깃헙](http://github.com/jangsunok)
+
+
+
+## Atom에서 마크다운 문서 preview
+`ctrl`+`shift`+`m`
