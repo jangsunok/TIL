@@ -19,3 +19,9 @@ Slug is a newspaper term. A slug is a short label for something, containing only
 
 ## F() expressions
 - https://docs.djangoproject.com/ko/2.0/ref/models/expressions/#f-expressions
+
+
+
+## django.models.Signals
+https://docs.djangoproject.com/en/2.1/topics/signals/
+https://dgkim5360.tistory.com/entry/django-signal-example
