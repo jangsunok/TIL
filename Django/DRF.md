@@ -22,3 +22,8 @@
 ## middleware, middleware_class
 - https://docs.djangoproject.com/ko/2.1/topics/http/middleware/
 - https://simpleisbetterthancomplex.com/tutorial/2016/07/18/how-to-create-a-custom-django-middleware.html
+
+
+## mixin
+https://docs.djangoproject.com/ko/2.1/topics/class-based-views/mixins/
+https://docs.djangoproject.com/en/2.1/ref/class-based-views/mixins-simple/
